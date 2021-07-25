@@ -1,4 +1,6 @@
-# vue_todoapp
+# vue 프로젝트 환경 설정 
+
+- eslintrc.js, prettier 설정 등
 
 ## Project setup
 ```
